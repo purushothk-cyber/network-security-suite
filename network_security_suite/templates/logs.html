@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Network Logs</title>
+</head>
+<body>
+    <h1>Firewall Logs</h1>
+    <pre>{{ firewall_logs | join('') }}</pre>
+
+    <h1>Packet Logs</h1>
+    <pre>{{ packet_logs | join('') }}</pre>
+
+    <h1>Intrusion Logs</h1>
+    <pre>{{ intrusion_logs | join('') }}</pre>
+
+    <a href="/">Back to Dashboard</a>
+</body>
+</html>

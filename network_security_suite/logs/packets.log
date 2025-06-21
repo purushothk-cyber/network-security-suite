@@ -1,0 +1,1978 @@
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:26:c0:5d:d2:3a
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IPv6 / TCP 2600:140f:400::b854:e919:https > 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8406 FA
+Ether / IPv6 / TCP 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8406 > 2600:140f:400::b854:e919:https A
+Ether / IPv6 / TCP 2600:140f:400::b854:e919:https > 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8407 PA / Raw
+Ether / IPv6 / TCP 2600:140f:400::b854:e919:https > 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8407 FA
+Ether / IPv6 / TCP 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8407 > 2600:140f:400::b854:e919:https A
+Ether / IPv6 / TCP 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8382 > 2600:1900:4110:86f:::http FA
+Ether / IPv6 / TCP 2600:140f:400::b854:e919:https > 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8406 FPA / Raw
+Ether / IPv6 / TCP 2409:40f4:1c:8f90:1576:b00c:d561:c8da:8406 > 2600:140f:400::b854:e919:https A
+Ether / IP / TCP 192.168.77.117:49678 > 148.113.9.160:https A / Raw
+Ether / IP / TCP 148.113.9.160:https > 192.168.77.117:49678 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 A
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49904 > 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49904 A
+Ether / IP / UDP / mDNS Ans 192.168.77.196
+Ether / IP / TCP 192.168.77.117:49678 > 148.113.9.160:https A / Raw
+Ether / IP / TCP 148.113.9.160:https > 192.168.77.117:49678 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / TCP 192.168.77.117:50101 > 52.182.143.210:https S
+Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https S
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50101 SA
+Ether / IP / UDP / mDNS Ans b'MiTV4I._rc._tcp.local.'
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50101 SA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 FPA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 > 64:ff9b::34b6:8fd2:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50103 > 52.182.143.210:https S
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50102 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https S
+Ether / IPv6 / TCP 64:ff9b::142c:a7b:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 A
+Ether / IPv6 / TCP 64:ff9b::142c:a7b:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 A
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50103 SA
+Ether / IPv6 / TCP 64:ff9b::142c:a7b:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::142c:a7b:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 > 64:ff9b::142c:a7b:https PA / Raw
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50101 SA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::142c:a7b:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49938 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50103 SA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 FPA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 > 64:ff9b::34b6:8fd2:https FA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50104 A
+Ether / IP / TCP 192.168.77.117:50105 > 52.182.143.210:https S
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50106 > 64:ff9b::34b6:8fd2:https S
+Ether / IP / TCP 52.182.143.210:https > 192.168.77.117:50105 SA
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50238 SA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50237 SA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50236 SA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50235 SA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50234 SA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50233 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50250 SA
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https PA / Raw
+Ether / IP / UDP / DNS Qry b'gnar.grammarly.com.'
+Ether / IP / UDP / DNS Qry b'gnar.grammarly.com.'
+Ether / IP / UDP / DNS Qry b'gnar.grammarly.com.'
+Ether / IP / UDP / DNS Ans 64:ff9b::36a5:6d5f
+Ether / IP / UDP / DNS Ans 54.165.109.95
+Ether / IP / UDP / DNS Ans
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https S
+Ether / IP / UDP / DNS Qry b'auth.grammarly.com.'
+Ether / IP / UDP / DNS Qry b'auth.grammarly.com.'
+Ether / IP / UDP / DNS Qry b'auth.grammarly.com.'
+Ether / IP / UDP / DNS Ans
+Ether / IP / UDP / DNS Ans 64:ff9b::3415:3a56
+Ether / IP / UDP / DNS Ans 52.0.246.229
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https S
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https A
+Ether / IPv6 / TCP 64:ff9b::22c6:62fe:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50258 SA
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50259 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50246 > 64:ff9b::22d7:233e:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A / Raw
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https A
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A / Raw
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 A / Raw
+Ether / IPv6 / TCP 64:ff9b::36a5:6d5f:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50269 > 64:ff9b::36a5:6d5f:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:23d1:9200:1f:86b:f1c0:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50265 SA
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 A
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 A
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 A / Raw
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 A / Raw
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 A / Raw
+Ether / IPv6 / TCP 64:ff9b::3415:3a56:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 PA / Raw
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50270 > 64:ff9b::3415:3a56:https PA / Raw
+Ether / IP / UDP / mDNS Ans 192.168.77.196
+Ether / IP / TCP 192.168.77.117:50290 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50290 PA / Raw
+Ether / IP / TCP 192.168.77.117:50290 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:49678 > 148.113.9.160:https A / Raw
+Ether / IP / TCP 148.113.9.160:https > 192.168.77.117:49678 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https FA
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50255 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50287 > 2600:9000:2579:600:4:65e6:740:93a1:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50301 > 64:ff9b::2cda:807c:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50286 > 2600:9000:2579:7400:4:65e6:740:93a1:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50304 > 64:ff9b::2cda:807c:https FA
+Ether / IP / TCP 192.168.77.117:50290 > 192.168.77.196:8009 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50294 > 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50293 > 2404:6800:4002:806::2003:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50295 > 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50292 > 64:ff9b::2cef:ae92:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50292 > 64:ff9b::2cef:ae92:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50290 PA / Raw
+Ether / IP / TCP 192.168.77.117:50290 > 192.168.77.196:8009 RA
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50290 FA
+Ether / IPv6 / TCP 2600:9000:2579:600:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50287 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50287 > 2600:9000:2579:600:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:7400:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50286 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50286 > 2600:9000:2579:7400:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 A
+Ether / IPv6 / TCP 2404:6800:4002:806::2003:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50293 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50293 > 2404:6800:4002:806::2003:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 A
+Ether / IPv6 / TCP 64:ff9b::2cda:807c:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50301 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cda:807c:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50301 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50301 > 64:ff9b::2cda:807c:https RA
+Ether / IPv6 / TCP 64:ff9b::2cef:ae92:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50292 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50294 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cda:807c:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50304 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cda:807c:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50304 FA
+Ether / IPv6 / TCP 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50294 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50294 > 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50304 > 64:ff9b::2cda:807c:https RA
+Ether / IPv6 / TCP 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50295 PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50295 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50295 > 2600:1f13:11b:9905:f466:a3d7:569:b8bb:https RA
+Ether / IPv6 / TCP 2603:1040:a06:3::10:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49925 > 2603:1040:a06:3::10:https A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / DNS Qry b'chatgpt.com.'
+Ether / IP / UDP / DNS Qry b'chatgpt.com.'
+Ether / IP / UDP / DNS Qry b'chatgpt.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https PA / Raw
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / DNS Ans 104.18.32.47
+Ether / IP / UDP / DNS Ans
+Ether / IP / UDP / DNS Ans 2606:4700:9c62:7cbc:c2c6:488:5ff2:75c4
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49408 > 2603:1040:a06:6::2:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2603:1040:a06:6::2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49408 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:49902 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A
+Ether / IP / TCP 192.168.77.117:49678 > 148.113.9.160:https A / Raw
+Ether / IP / TCP 148.113.9.160:https > 192.168.77.117:49678 A
+Ether / IP / TCP 192.168.77.117:49678 > 148.113.9.160:https A
+Ether / IP / TCP 148.113.9.160:https > 192.168.77.117:49678 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50133 > 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https A / Raw
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50133 A
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https S
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 SA
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https PA / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 PA / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https PA / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 PA / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https PA / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 PA / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 FPA / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https A
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50310 > 52.168.112.66:https FA
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50310 A
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 PA / Raw
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:49698 PA / Raw
+Ether / IP / TCP 192.168.77.117:50311 > 52.168.112.66:https S
+Ether / IP / TCP 192.168.77.117:49698 > 192.168.77.196:8009 A
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https S
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https S
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https S
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50311 SA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IP / TCP 192.168.77.117:49903 > 192.168.77.196:8008 A / Raw
+Ether / IP / TCP 192.168.77.196:8008 > 192.168.77.117:49903 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 A / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 A
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 FPA / Raw
+Ether / IP / TCP 52.168.112.66:https > 192.168.77.117:50311 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 > 64:ff9b::34a8:7042:https FA
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::34b6:8fd2:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50314 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50312 > 64:ff9b::34b6:8fd2:https A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IPv6 / TCP 64:ff9b::34a8:7042:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50313 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50402 > 2600:1f18:24e6:b902:a46c:a4a6:87fe:c14c:https A / Raw
+Ether / IPv6 / TCP 2600:1f18:24e6:b902:a46c:a4a6:87fe:c14c:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50402 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50438 > 64:ff9b::23a7:ad84:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50462 > 64:ff9b::3427:e353:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50465 > 64:ff9b::dd8:11d4:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50453 > 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50463 > 64:ff9b::3d3:e960:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50457 > 64:ff9b::2cc5:49fb:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50452 > 64:ff9b::22df:2d33:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50435 > 2600:9000:2242:6200:2:8588:ed80:93a1:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50428 > 64:ff9b::22d7:233e:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50428 > 64:ff9b::22d7:233e:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50432 > 64:ff9b::22d7:233e:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50432 > 64:ff9b::22d7:233e:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50430 > 64:ff9b::22d7:233e:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50430 > 64:ff9b::22d7:233e:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50442 > 64:ff9b::22d7:233e:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50442 > 64:ff9b::22d7:233e:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50441 > 2606:4700:9c60:70fa:cec6:494:b6d3:4cd4:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50443 > 64:ff9b::6c9f:f09:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50434 > 64:ff9b::23a7:ad84:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50444 > 64:ff9b::23aa:b1b0:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50439 > 64:ff9b::3211:5eed:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50450 > 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50456 > 64:ff9b::2cc5:49fb:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50461 > 64:ff9b::3d3:e960:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50455 > 64:ff9b::3da:27a4:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50460 > 64:ff9b::3427:e353:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50464 > 64:ff9b::dd8:11d4:https FA
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A
+Ether / IP / UDP / DNS Qry b'static.ads.brave.com.'
+Ether / IP / UDP / DNS Qry b'static.ads.brave.com.'
+Ether / IP / UDP / DNS Qry b'static.ads.brave.com.'
+Ether / IPv6 / TCP 2600:9000:2242:6200:2:8588:ed80:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50435 FA
+Ether / IPv6 / TCP 64:ff9b::6c9f:f09:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50443 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50435 > 2600:9000:2242:6200:2:8588:ed80:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50443 > 64:ff9b::6c9f:f09:https A
+Ether / IP / UDP / DNS Qry b'geo.ads.brave.com.'
+Ether / IP / UDP / DNS Qry b'geo.ads.brave.com.'
+Ether / IP / UDP / DNS Qry b'geo.ads.brave.com.'
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:494:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50441 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50441 > 2606:4700:9c60:70fa:cec6:494:b6d3:4cd4:https A
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https S
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IP / UDP / DNS Ans b'd3owvgesicftp9.cloudfront.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https S
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A
+Ether / IPv6 / TCP 64:ff9b::dd8:11d4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50465 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::dd8:11d4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50465 FA
+Ether / IPv6 / TCP 64:ff9b::3d3:e960:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50463 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3d3:e960:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50463 FA
+Ether / IPv6 / TCP 64:ff9b::23aa:b1b0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50444 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::23aa:b1b0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50444 FA
+Ether / IPv6 / TCP 64:ff9b::3da:27a4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50455 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3da:27a4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50455 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50465 > 64:ff9b::dd8:11d4:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50463 > 64:ff9b::3d3:e960:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50444 > 64:ff9b::23aa:b1b0:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50455 > 64:ff9b::3da:27a4:https RA
+Ether / IPv6 / TCP 64:ff9b::2cc5:49fb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50457 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cc5:49fb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50457 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50457 > 64:ff9b::2cc5:49fb:https RA
+Ether / IPv6 / TCP 64:ff9b::3d3:e960:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50461 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3d3:e960:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50461 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50461 > 64:ff9b::3d3:e960:https RA
+Ether / IPv6 / TCP 64:ff9b::3211:5eed:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50439 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3211:5eed:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50439 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50439 > 64:ff9b::3211:5eed:https RA
+Ether / IPv6 / TCP 64:ff9b::2cc5:49fb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50456 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::2cc5:49fb:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50456 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50456 > 64:ff9b::2cc5:49fb:https RA
+Ether / IPv6 / TCP 64:ff9b::23a7:ad84:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50434 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::23a7:ad84:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50434 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50434 > 64:ff9b::23a7:ad84:https RA
+Ether / IPv6 / TCP 64:ff9b::dd8:11d4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50464 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::dd8:11d4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50464 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50464 > 64:ff9b::dd8:11d4:https RA
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50442 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50428 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50430 A
+Ether / IPv6 / TCP 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50453 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::23a7:ad84:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50438 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50432 A
+Ether / IPv6 / TCP 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50453 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50453 > 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50438 > 64:ff9b::23a7:ad84:https RA
+Ether / IPv6 / TCP 64:ff9b::23a7:ad84:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50438 FA
+Ether / IPv6 / TCP 64:ff9b::3427:e353:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50460 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3427:e353:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50460 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50460 > 64:ff9b::3427:e353:https RA
+Ether / IPv6 / TCP 64:ff9b::22df:2d33:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50452 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22df:2d33:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50452 RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50452 > 64:ff9b::22df:2d33:https RA
+Ether / IPv6 / TCP 64:ff9b::3427:e353:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50462 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3427:e353:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50462 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50462 > 64:ff9b::3427:e353:https RA
+Ether / IPv6 / TCP 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50450 PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50450 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50450 > 2600:1f13:11b:9904:b253:4a91:f8d8:1eec:https RA
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans 192.168.77.196
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 S
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 SA
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / UDP / DNS Qry b'windows.msn.com.'
+Ether / IP / UDP / DNS Qry b'windows.msn.com.'
+Ether / IP / UDP / DNS Ans b'win-msn-com-world-atm-default.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'win-msn-com-world-atm-default.trafficmanager.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https S
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https PA / Raw
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https PA / Raw
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 A
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 A
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https PA / Raw
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2600:140f:400::b854:e938:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50471 > 2600:140f:400::b854:e938:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 > 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IP / UDP / mDNS Ans b'MiTV4I._rc._tcp.local.'
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https S
+Ether / IP / UDP / DNS Qry b'filedownload.lenovo.com.'
+Ether / IP / UDP / DNS Qry b'filedownload.lenovo.com.'
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IP / UDP / DNS Ans b'filedownload.lenovo.com.akadns.net.'
+Ether / IP / UDP / DNS Ans b'filedownload.lenovo.com.akadns.net.'
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https S
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https PA / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 SA
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 A / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50473 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 PA / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https PA / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 PA / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https PA / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 PA / Raw
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 FPA / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https A
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50472 > 20.189.173.18:https FA
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https S
+Ether / IP / UDP / DNS Qry b'www.lenovo.com.'
+Ether / IP / UDP / DNS Qry b'www.lenovo.com.'
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A
+Ether / IP / TCP 20.189.173.18:https > 192.168.77.117:50472 A
+Ether / IP / UDP / DNS Ans b'www.lenovo.com.edgekey.net.'
+Ether / IP / UDP / DNS Ans b'www.lenovo.com.edgekey.net.'
+Ether / IPv6 / ICMPv6 Echo Request (id: 0x1 seq: 0x1)
+Ether / IP / UDP / DNS Qry b'supportapi.lenovo.com.'
+Ether / IP / UDP / DNS Qry b'supportapi.lenovo.com.'
+Ether / IPv6 / ICMPv6 Echo Reply (id: 0x1 seq: 0x1)
+Ether / IPv6 / UDP / DNS Qry b'supportapi.lenovo.com.'
+Ether / IPv6 / UDP / DNS Qry b'supportapi.lenovo.com.'
+Ether / IP / UDP / DNS Ans b'supportapi.lenovo.com.edgekey.net.'
+Ether / IP / UDP / DNS Ans b'supportapi.lenovo.com.edgekey.net.'
+Ether / IPv6 / UDP / DNS Ans b'supportapi.lenovo.com.edgekey.net.'
+Ether / IPv6 / UDP / DNS Ans b'supportapi.lenovo.com.edgekey.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https S
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / UDP / DNS Qry b'sdk-services.uds.lenovo.com.'
+Ether / IP / UDP / DNS Qry b'sdk-services.uds.lenovo.com.'
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https PA / Raw
+Ether / IPv6 / UDP / DNS Qry b'sdk-services.uds.lenovo.com.'
+Ether / IPv6 / UDP / DNS Qry b'sdk-services.uds.lenovo.com.'
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 SA
+Ether / IP / UDP / DNS Ans b'sdk-services.naea1.uds.lenovo.com.'
+Ether / IP / UDP / DNS Ans b'sdk-services.naea1.uds.lenovo.com.'
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https S
+Ether / IPv6 / UDP / DNS Ans b'sdk-services.naea1.uds.lenovo.com.'
+Ether / IPv6 / UDP / DNS Ans b'sdk-services.naea1.uds.lenovo.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 A
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 A
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 A
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 A / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 A / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https PA / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 A / Raw
+Ether / IPv6 / TCP 64:ff9b::17c8:322e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 PA / Raw
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50475 > 64:ff9b::17c8:322e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https A
+Ether / IPv6 / TCP 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50476 > 2600:9000:2181:ca00:1a:4b7c:5180:93a1:https A
+Ether / IP / UDP / DNS Qry b'app.compendium.com.'
+Ether / IP / UDP / DNS Qry b'app.compendium.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https PA / Raw
+Ether / IPv6 / UDP / DNS Qry b'app.compendium.com.'
+Ether / IPv6 / UDP / DNS Qry b'app.compendium.com.'
+Ether / IP / UDP / DNS Ans 142.0.173.1
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IPv6 / UDP / DNS Ans 142.0.173.1
+Ether / IPv6 / TCP 64:ff9b::266a:e7d0:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50474 > 64:ff9b::266a:e7d0:https A
+Ether / IP / UDP / DNS Ans 64:ff9b::8e00:ad01
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50477 > 64:ff9b::8e00:ad01:https S
+Ether / IPv6 / UDP / DNS Ans 64:ff9b::8e00:ad01
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 PA / Raw
+Ether / IP / UDP / DNS Qry b'data-ai.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'data-ai.microsoft.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A
+Ether / IP / UDP / DNS Ans b'ddaiservices-had4h5ftfqg2atax.z01.azurefd.net.'
+Ether / IP / UDP / DNS Ans b'ddaiservices-had4h5ftfqg2atax.z01.azurefd.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https S
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50477 > 64:ff9b::8e00:ad01:https S
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 > 2620:1ec:bdf::48:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::48:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50478 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 > 64:ff9b::22d7:233e:https A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 PA / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 > 64:ff9b::22d7:233e:https A
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IPv6 / TCP 2603:1063:27:2::14:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50458 RA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 > 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 > 64:ff9b::22d7:233e:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 > 64:ff9b::22d7:233e:https FA
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 A
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50481 A
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / UDP / mDNS Ans 192.168.77.196
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / fe80::90f6:baff:fe91:bcec > ff02::16 (0) / IPv6ExtHdrHopByHop / ICMPv6MLReport2
+Ether / 192.168.77.39 > 224.0.0.22 2 / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / UDP / mDNS Ans b'MiTV4I._rc._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 > 64:ff9b::3369:4789:https A / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https A
+Ether / IPv6 / TCP 64:ff9b::3369:4789:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50410 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50335 > 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:48b:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50335 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / UDP 192.168.77.117:54151 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.77.196:40666 > 192.168.77.117:54151 / Raw
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / UDP 192.168.77.117:54151 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.77.196:55019 > 192.168.77.117:54151 / Raw
+Ether / IP / TCP 192.168.77.117:50336 > 192.168.77.196:8008 A / Raw
+Ether / IP / TCP 192.168.77.196:8008 > 192.168.77.117:50336 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / UDP 192.168.77.117:54151 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.77.196:47282 > 192.168.77.117:54151 / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IP / UDP 192.168.77.117:54151 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.77.196:47275 > 192.168.77.117:54151 / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https S
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https PA / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https A
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 PA / Raw
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 A
+Ether / IPv6 / TCP 64:ff9b::1432:50d1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50495 > 64:ff9b::1432:50d1:https A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50484 > 2404:6800:4007:832::2003:https A / Raw
+Ether / IPv6 / TCP 2404:6800:4007:832::2003:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50484 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50486 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https A / Raw
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50486 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 > 2600:9000:2579:cc00:4:65e6:740:93a1:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 > 2600:9000:2579:da00:4:65e6:740:93a1:https A / Raw
+Ether / IPv6 / TCP 2600:9000:2579:cc00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50468 A
+Ether / IPv6 / TCP 2600:9000:2579:da00:4:65e6:740:93a1:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50469 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 > 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https A / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2600:1f13:11b:9905:19a5:5443:3616:2bb5:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50485 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+Ether / IP / UDP / DNS Qry b'optimizationguide-pa.googleapis.com.'
+Ether / IP / UDP / DNS Ans 2404:6800:4007:834::200a
+Ether / IP / UDP / DNS Ans
+Ether / IP / UDP / DNS Ans 142.250.194.74
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / UDP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 > 2404:6800:4007:834::200a:https / Raw
+Ether / IPv6 / UDP 2404:6800:4007:834::200a:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:62747 / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 > 64:ff9b::22d7:233e:https A / Raw
+Ether / IPv6 / TCP 64:ff9b::22d7:233e:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50482 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 > 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https A / Raw
+Ether / IPv6 / TCP 2606:4700:9c62:7cbc:c2c6:494:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50394 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 > 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / TCP 2606:4700:9c60:70fa:cec6:48b:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50440 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50580 > 2606:4700:83b2:7cbc:c23b:491:5ff2:75c4:https FA
+Ether / IPv6 / TCP 2606:4700:83b2:7cbc:c23b:491:5ff2:75c4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50580 FA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50580 > 2606:4700:83b2:7cbc:c23b:491:5ff2:75c4:https A
+Ether / IPv6 / ICMPv6ND_NS / ICMPv6 Neighbor Discovery Option - Source Link-Layer Address 92:f6:ba:91:bc:ec
+Ether / IPv6 / ICMPv6ND_NA / ICMPv6 Neighbor Discovery Option - Destination Link-Layer Address 3c:0a:f3:21:ea:31
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IP / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Qry b'_googlecast._tcp.local.'
+Ether / IPv6 / UDP / mDNS Ans b'MiTV4I-2da795c58bca560ce834bb11a8b23e9d._googlecast._tcp.local.'
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https A
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50560 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50560 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50560 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https PA / Raw
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50560 A
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50560 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 S
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 A
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2a03:2880:f34f:121:face:b00c:0:7260:5222 > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50584 > 2a03:2880:f34f:121:face:b00c:0:7260:5222 A
+Ether / IP / UDP / DNS Qry b'main.vscode-cdn.net.'
+Ether / IP / UDP / DNS Qry b'main.vscode-cdn.net.'
+Ether / IP / UDP / DNS Qry b'main.vscode-cdn.net.'
+Ether / IP / UDP / DNS Ans b'vscode-cdn.z01.azurefd.net.'
+Ether / IP / UDP / DNS Ans b'vscode-cdn.z01.azurefd.net.'
+Ether / IP / UDP / DNS Ans b'vscode-cdn.z01.azurefd.net.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https S
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 A / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2620:1ec:bdf::58:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50586 > 2620:1ec:bdf::58:https A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50557 > 2a04:4e42:25::485:https A / Raw
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50337 PA / Raw
+Ether / IPv6 / TCP 2a04:4e42:25::485:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50557 A
+Ether / IP / TCP 192.168.77.117:50337 > 192.168.77.196:8009 A
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50556 > 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https A / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50547 > 64:ff9b::6c9f:f09:https A / Raw
+Ether / IPv6 / TCP 2606:4700:83b0:70fa:cec6:491:b6d3:4cd4:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50556 A
+Ether / IPv6 / TCP 64:ff9b::6c9f:f09:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50547 A
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 PA / Raw
+Ether / IP / TCP 192.168.77.196:8009 > 192.168.77.117:50470 PA / Raw
+Ether / IP / TCP 192.168.77.117:50470 > 192.168.77.196:8009 A
+Ether / IP / UDP / DNS Qry b'http-intake.logs.datadoghq.com.'
+Ether / IP / UDP / DNS Qry b'http-intake.logs.datadoghq.com.'
+Ether / IP / UDP / DNS Ans b'http-intake-l4.logs.datadoghq.com.'
+Ether / IP / UDP / DNS Ans b'http-intake-l4.logs.datadoghq.com.'
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50588 > 2600:1f18:24e6:b901:c7ce:cfbb:2ca2:ab3:https S
+Ether / IP / TCP 192.168.77.117:50589 > 3.233.158.48:https S
+Ether / IPv6 / TCP 2600:1f18:24e6:b901:c7ce:cfbb:2ca2:ab3:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50588 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50590 > 2600:1f18:24e6:b900:285:fb9a:8c6b:3654:https S
+Ether / IP / TCP 3.233.158.48:https > 192.168.77.117:50589 SA
+Ether / IP / TCP 192.168.77.117:50591 > 3.233.158.50:https S
+Ether / IPv6 / TCP 2600:1f18:24e6:b900:285:fb9a:8c6b:3654:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50590 SA
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50592 > 2600:1f18:24e6:b902:9489:c659:8678:8043:https S
+Ether / IP / TCP 3.233.158.50:https > 192.168.77.117:50591 SA
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https S
+Ether / IPv6 / TCP 2600:1f18:24e6:b902:9489:c659:8678:8043:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50592 SA
+Ether / IPv6 / TCP 2600:1f18:24e6:b901:c7ce:cfbb:2ca2:ab3:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50588 SA
+Ether / IP / TCP 3.233.158.48:https > 192.168.77.117:50589 SA
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 SA
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https A
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https PA / Raw
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 A
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 A / Raw
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 PA / Raw
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https A
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 PA / Raw
+Ether / IPv6 / TCP 2600:1f18:24e6:b900:285:fb9a:8c6b:3654:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50590 SA
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https PA / Raw
+Ether / IPv6 / TCP 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 > 2603:1040:5:3::19:https PA / Raw
+Ether / IP / TCP 3.233.158.50:https > 192.168.77.117:50591 SA
+Ether / IPv6 / TCP 2603:1040:5:3::19:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50331 A
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 PA / Raw
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https PA / Raw
+Ether / IPv6 / TCP 2600:1f18:24e6:b902:9489:c659:8678:8043:https > 2409:40f4:a5:53d3:9838:b2cf:bea9:b06d:50592 SA
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A
+Ether / IP / TCP 192.168.77.117:50332 > 148.113.9.137:https A / Raw
+Ether / IP / TCP 148.113.9.137:https > 192.168.77.117:50332 A
+Ether / IP / TCP 3.233.158.49:https > 192.168.77.117:50593 PA / Raw
+Ether / IP / TCP 192.168.77.117:50593 > 3.233.158.49:https A
