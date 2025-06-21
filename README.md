@@ -14,7 +14,7 @@ A simple, GUI-based Network Security Suite that provides essential tools for net
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Tkinter (for GUI)
 - Scapy / OS Libraries (for packet sniffing)
